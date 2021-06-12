@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 Yii2 application 
 ```
 composer require yiisoft/yii2
+composer require --prefer-dist yiisoft/yii2-httpclient
 ```
 
 ### Installing

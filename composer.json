@@ -16,7 +16,9 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-httpclient": "*",
+        "ext-curl": "*"
     },
     "autoload": {
         "psr-4": {
